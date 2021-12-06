@@ -1,0 +1,13 @@
+{
+  "appId": "listici.za.jamb",
+  "appName": "Listici za jamb",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

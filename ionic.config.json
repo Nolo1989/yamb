@@ -1,0 +1,7 @@
+{
+  "name": "jamb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
